@@ -1,0 +1,24 @@
+#tab-content{
+                    overflow: auto;
+                    height: 100%;
+                    position:relative;
+                  	background-color: yellow;
+                    color: white;
+                    padding-left:20px;
+                    padding-right:20px;
+          }
+
+#tab-content ul{
+                    display:blue;
+                    list-style: none outside none;
+                   overflow: auto;
+                   white-space: nowrap;
+
+          }
+          #tab-content ul li{
+                    display: inline;
+                    padding: 7px;
+                    margin-right: 4px;
+                    font-style: italic;
+                   
+          }
